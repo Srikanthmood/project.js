@@ -1,0 +1,32 @@
+.navbar{
+    background:black; font-family: calibri; padding-right: 15px;padding-left: 15px;
+   
+}
+.navdiv{
+    display: flex; align-items: center; justify-content: space-between;
+    
+}
+.logo a{
+    font-size: 35px; font-weight: 600; color: white;
+    text-decoration: none;
+}
+li{
+    list-style: none; display: inline-block;
+}
+li a{
+    color: white; font-size: 18px; font-weight: bold; margin-right: 25px;
+    text-decoration: none;
+}
+body{
+    background-color: #E6FAFA;
+    
+}
+footer{
+    background-color: black;
+    color:#E6FAFA;
+    height: 150px;
+}
+footer p{
+    text-align: center;
+    padding:75px;
+}
